@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍🎓 About Me
-- 🌱 Growing my skills in **React | Java | C# | Python | TypeScript**
+- 🌱 Growing my skills in **React | Java | C# | Python | Javascript**
 - 🎯 I enjoy solving complex problems and working on impactful projects.
 - 🤝 Always open to contributing to exciting projects and innovative ideas.
 ---
